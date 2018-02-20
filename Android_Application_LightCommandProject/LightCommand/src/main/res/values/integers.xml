@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<integer name="intensity">0</integer>
+<integer name="speed">1</integer>
+<integer name="xPos">0</integer>
+<integer name="yPos">0</integer>
+</resources>

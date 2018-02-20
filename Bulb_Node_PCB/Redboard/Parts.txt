@@ -1,0 +1,65 @@
+Partlist
+
+Exported from RedBoard-v21.sch at 2/24/2015 8:32:50 PM
+
+EAGLE Version 7.1.0 Copyright (c) 1988-2014 CadSoft
+
+Assembly variant: 
+
+Part     Value                             Device                            Package                                Library               Sheet
+
+AD                                         M06SMD-STRAIGHT-COMBO             1X06_SMD_STRAIGHT_COMBO                SparkFun              1
+C1       0.1uF                             CAP0603-CAP                       0603-CAP                               SparkFun              1
+C2       0.1uF                             CAP0603-CAP                       0603-CAP                               SparkFun              1
+C3       10uF                              CAP_POL1206                       EIA3216                                SparkFun              1
+C4       0.1uF                             CAP0603-CAP                       0603-CAP                               SparkFun              1
+C5       47uF                              CAP_POLD                          PANASONIC_D                            SparkFun              1
+C6       10uF                              CAP_POL1206                       EIA3216                                SparkFun              1
+C7       1uF                               CAP0603-CAP                       0603-CAP                               SparkFun              1
+C8       0.1uF                             CAP0603-CAP                       0603-CAP                               SparkFun              1
+C9       47pF                              47PF-50V-5%(0603)                 0603-CAP                               SparkFun-Capacitors   1
+C10      0.1uF                             CAP0603-CAP                       0603-CAP                               SparkFun              1
+C12      0.1uF                             CAP0603-CAP                       0603-CAP                               SparkFun              1
+C13      47pF                              47PF-50V-5%(0603)                 0603-CAP                               SparkFun-Capacitors   1
+C14      0.1uF                             CAP0603-CAP                       0603-CAP                               SparkFun              1
+C15      10uF                              CAP_POL1206                       EIA3216                                SparkFun-Capacitors   1
+D1       MBRA140                           DIODE-SCHOTTKY_                   SMA-DIODE                              SparkFun              1
+F1       500mA                             PTCSMD                            PTC-1206                               SparkFun              1
+IC3      LM1117                            V_REG_LM1117ALT1                  SOT223-ALT1                            Testing               1
+IOL                                        M08SMD-COMBO                      1X08_SMD_COMBINED                      SparkFun              1
+J1       POWER_JACKOVERPASTE_REDBOARD_0603 POWER_JACKOVERPASTE_REDBOARD_0603 POWER_JACK_SMD_OVERPASTE_REDBOARD_0603 Testing               1
+J2       ICSP                              AVR_SPI_PRG_6SMT_MALE             2X3_SMT_POSTS                          SparkFun-Connectors   1
+JP2      M10SMD_COMBO                      M10SMD_COMBO                      1X10_SMD_COMBINED                      SparkFun-Connectors   1
+JP10                                       M08SMD-COMBO                      1X08_SMD_COMBINED                      SparkFun-Connectors   1
+LED1     Blue                              LED1206-NS                        LED-1206-NO_SILK                       SparkFun-LED          1
+LED2     Green                             LED1206-NS                        LED-1206-NO_SILK                       SparkFun-LED          1
+LED3     Red                               LED1206-NS                        LED-1206-NO_SILK                       SparkFun-LED          1
+LED4     Yellow                            LED1206-NS                        LED-1206-NO_SILK                       SparkFun-LED          1
+Q1       ZXMP6A13FTA                       MOSFET-PCHANNELSMD                SOT23-3                                SparkFun              1
+Q2       2N7002PW                          MOSFET-NCHANNEL2N7002PW           SOT323                                 SparkFun-DiscreteSemi 1
+R1       1k                                RESISTOR0603-RES                  0603-RES                               SparkFun              1
+R2       1k                                RESISTOR0603-RES                  0603-RES                               SparkFun              1
+R3       10k                               RESISTOR0603-RES                  0603-RES                               SparkFun              1
+R4       10k                               RESISTOR0603-RES                  0603-RES                               SparkFun              1
+R5       27                                RESISTOR0603-RES                  0603-RES                               SparkFun-Resistors    1
+R6       1k                                RESISTOR0603-RES                  0603-RES                               SparkFun              1
+R7       1k                                RESISTOR0603-RES                  0603-RES                               SparkFun              1
+R8       1k                                RESISTOR0603-RES                  0603-RES                               SparkFun              1
+R9       1k                                RESISTOR0603-RES                  0603-RES                               SparkFun              1
+R10      27                                RESISTOR0603-RES                  0603-RES                               SparkFun-Resistors    1
+R11      10k                               RESISTOR0603-RES                  0603-RES                               SparkFun              1
+R12      10k                               RESISTOR0603-RES                  0603-RES                               SparkFun              1
+R14      715                               RESISTOR0603-RES                  0603-RES                               SparkFun              1
+R15      240                               RESISTOR0603-RES                  0603-RES                               SparkFun              1
+S1       RESET                             TAC_SWITCHSMD                     TACTILE_SWITCH_SMD                     SparkFun              1
+TP1      TP-3x5                            TEST-POINT3X5                     PAD.03X.05                             SparkFun-Passives     1
+TP2      TP-3x5                            TEST-POINT3X5                     PAD.03X.05                             SparkFun-Passives     1
+TP3      TP-3x5                            TEST-POINT3X5                     PAD.03X.05                             SparkFun-Passives     1
+TP4      TP-3x5                            TEST-POINT3X5                     PAD.03X.05                             SparkFun-Passives     1
+TP5      TP-3x5                            TEST-POINT3X5                     PAD.03X.05                             SparkFun-Passives     1
+TP6      TP-3x5                            TEST-POINT3X5                     PAD.03X.05                             SparkFun-Passives     1
+U$13     USB-MINIB-5PIN                    USB-MINIB-5PIN                    USB-MINIB                              SparkFun-Connectors   1
+U1       FT231XS                           FT231XS                           SSOP20_L                               SparkFun-DigitalIC    1
+U2       MIC5205                           V_REG_LDOSMD                      SOT23-5                                SparkFun              1
+U3       ATMEGA328                         ATMEGA168                         TQFP32-08                              SparkFun              1
+Y1       16MHz                             RESONATORSMD                      RESONATOR-SMD                          SparkFun-FreqCtrl     1

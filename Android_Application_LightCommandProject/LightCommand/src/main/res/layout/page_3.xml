@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        >
+
+    <TimePicker
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/timePicker"
+            android:layout_marginTop="16dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:clickable="true"/>
+
+    <Button
+            android:layout_width="195dp"
+            android:layout_height="80dp"
+            android:text="Set"
+            android:id="@+id/button"
+            android:layout_marginBottom="15dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignLeft="@+id/Tuesday"
+            android:clickable="true"
+            android:onClick="timepickClick"/>
+
+    <ToggleButton
+            android:layout_width="65dp"
+            android:layout_height="80dp"
+            android:text="New ToggleButton"
+            android:id="@+id/Monday"
+            android:checked="false"
+            android:textOn="Mon."
+            android:textOff="Mon."
+            android:layout_above="@+id/Sunday"
+            android:layout_alignLeft="@+id/Sunday"
+            android:clickable="true"/>
+
+    <ToggleButton
+            android:layout_width="65dp"
+            android:layout_height="80dp"
+            android:text="New ToggleButton"
+            android:id="@+id/Tuesday"
+            android:textOff="Tues."
+            android:textOn="Tues."
+            android:layout_above="@+id/Sunday"
+            android:layout_toRightOf="@+id/Sunday"
+            android:clickable="true"
+            android:checked="false"/>
+
+    <ToggleButton
+            android:layout_width="65dp"
+            android:layout_height="80dp"
+            android:text="New ToggleButton"
+            android:id="@+id/Wednesday"
+            android:textOff="Wed."
+            android:textOn="Wed."
+            android:layout_alignTop="@+id/Tuesday"
+            android:layout_toRightOf="@+id/Tuesday"
+            android:clickable="true"
+            android:checked="false"/>
+
+    <ToggleButton
+            android:layout_width="65dp"
+            android:layout_height="80dp"
+            android:text="New ToggleButton"
+            android:id="@+id/Thursday"
+            android:textOff="Thur."
+            android:textOn="Thur."
+            android:layout_alignTop="@+id/Wednesday"
+            android:layout_toRightOf="@+id/Wednesday"
+            android:clickable="true"
+            android:checked="false"/>
+
+    <ToggleButton
+            android:layout_width="65dp"
+            android:layout_height="80dp"
+            android:text="New ToggleButton"
+            android:id="@+id/Friday"
+            android:layout_alignTop="@+id/Thursday"
+            android:layout_toRightOf="@+id/Thursday"
+            android:textOff="Fri."
+            android:textOn="Fri."
+            android:clickable="true"
+            android:checked="false"/>
+
+    <ToggleButton
+            android:layout_width="65dp"
+            android:layout_height="80dp"
+            android:text="New ToggleButton"
+            android:id="@+id/Sunday"
+            android:textOn="Sun."
+            android:textOff="Sun."
+            android:layout_alignBottom="@+id/button"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="15dp"
+            android:clickable="true"
+            android:checked="false"/>
+
+    <ToggleButton
+            android:layout_width="65dp"
+            android:layout_height="80dp"
+            android:text="New ToggleButton"
+            android:id="@+id/Saturday"
+            android:layout_alignTop="@+id/Sunday"
+            android:layout_alignRight="@+id/Friday"
+            android:textOff="Sat."
+            android:textOn="Sat."
+            android:clickable="true"
+            android:checked="false"/>
+
+</RelativeLayout>

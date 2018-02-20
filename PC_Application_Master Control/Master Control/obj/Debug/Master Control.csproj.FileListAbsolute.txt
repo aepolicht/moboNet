@@ -1,0 +1,38 @@
+c:\users\alexander\documents\visual studio 2012\Projects\Master Control\Master Control\bin\Debug\Master Control.exe.config
+c:\users\alexander\documents\visual studio 2012\Projects\Master Control\Master Control\bin\Debug\Master Control.exe
+c:\users\alexander\documents\visual studio 2012\Projects\Master Control\Master Control\bin\Debug\Master Control.pdb
+c:\users\alexander\documents\visual studio 2012\Projects\Master Control\Master Control\obj\Debug\MainWindow.baml
+c:\users\alexander\documents\visual studio 2012\Projects\Master Control\Master Control\obj\Debug\MainWindow.g.cs
+c:\users\alexander\documents\visual studio 2012\Projects\Master Control\Master Control\obj\Debug\App.g.cs
+c:\users\alexander\documents\visual studio 2012\Projects\Master Control\Master Control\obj\Debug\Master Control_MarkupCompile.cache
+c:\users\alexander\documents\visual studio 2012\Projects\Master Control\Master Control\obj\Debug\Master Control.g.resources
+c:\users\alexander\documents\visual studio 2012\Projects\Master Control\Master Control\obj\Debug\Master_Control.Properties.Resources.resources
+c:\users\alexander\documents\visual studio 2012\Projects\Master Control\Master Control\obj\Debug\Master Control.csproj.GenerateResource.Cache
+c:\users\alexander\documents\visual studio 2012\Projects\Master Control\Master Control\obj\Debug\Master Control.exe
+c:\users\alexander\documents\visual studio 2012\Projects\Master Control\Master Control\obj\Debug\Master Control.pdb
+c:\users\alexander\documents\visual studio 2012\Projects\Master Control\Master Control\obj\Debug\Master Control.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\documents\visual studio 2012\Projects\Master Control\Master Control\bin\Debug\SlimDX.pdb
+C:\Users\Alexander\documents\visual studio 2012\Projects\Master Control\Master Control\bin\Debug\SlimDX.xml
+C:\Users\Alexander\documents\visual studio 2012\Projects\Master Control\Master Control\bin\Debug\Master Control.exe.manifest
+C:\Users\Alexander\documents\visual studio 2012\Projects\Master Control\Master Control\bin\Debug\Master Control.application
+C:\Users\Alexander\documents\visual studio 2012\Projects\Master Control\Master Control\obj\Debug\Master Control.exe.manifest
+C:\Users\Alexander\documents\visual studio 2012\Projects\Master Control\Master Control\obj\Debug\Master Control.application
+P:\Users\Alexander\SkyDrive\Project\moboNet\Master Control\Master Control\bin\Debug\Master Control.exe.config
+P:\Users\Alexander\SkyDrive\Project\moboNet\Master Control\Master Control\obj\Debug\Master Control.exe
+P:\Users\Alexander\SkyDrive\Project\moboNet\Master Control\Master Control\obj\Debug\Master Control.pdb
+P:\Users\Alexander\SkyDrive\Project\moboNet\Master Control\Master Control\bin\Debug\Master Control.exe.manifest
+P:\Users\Alexander\SkyDrive\Project\moboNet\Master Control\Master Control\bin\Debug\Master Control.application
+P:\Users\Alexander\SkyDrive\Project\moboNet\Master Control\Master Control\bin\Debug\Master Control.exe
+P:\Users\Alexander\SkyDrive\Project\moboNet\Master Control\Master Control\bin\Debug\Master Control.pdb
+P:\Users\Alexander\SkyDrive\Project\moboNet\Master Control\Master Control\bin\Debug\SlimDX.pdb
+P:\Users\Alexander\SkyDrive\Project\moboNet\Master Control\Master Control\bin\Debug\SlimDX.xml
+P:\Users\Alexander\SkyDrive\Project\moboNet\Master Control\Master Control\obj\Debug\Master Control.csprojResolveAssemblyReference.cache
+P:\Users\Alexander\SkyDrive\Project\moboNet\Master Control\Master Control\obj\Debug\MainWindow.baml
+P:\Users\Alexander\SkyDrive\Project\moboNet\Master Control\Master Control\obj\Debug\MainWindow.g.cs
+P:\Users\Alexander\SkyDrive\Project\moboNet\Master Control\Master Control\obj\Debug\App.g.cs
+P:\Users\Alexander\SkyDrive\Project\moboNet\Master Control\Master Control\obj\Debug\Master Control_MarkupCompile.cache
+P:\Users\Alexander\SkyDrive\Project\moboNet\Master Control\Master Control\obj\Debug\Master Control.g.resources
+P:\Users\Alexander\SkyDrive\Project\moboNet\Master Control\Master Control\obj\Debug\Master_Control.Properties.Resources.resources
+P:\Users\Alexander\SkyDrive\Project\moboNet\Master Control\Master Control\obj\Debug\Master Control.csproj.GenerateResource.Cache
+P:\Users\Alexander\SkyDrive\Project\moboNet\Master Control\Master Control\obj\Debug\Master Control.exe.manifest
+P:\Users\Alexander\SkyDrive\Project\moboNet\Master Control\Master Control\obj\Debug\Master Control.application

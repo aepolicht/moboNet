@@ -1,0 +1,15 @@
+c:\users\alexander\documents\visual studio 2012\Projects\Master Control\Master Control\bin\Release\Master Control.exe.config
+c:\users\alexander\documents\visual studio 2012\Projects\Master Control\Master Control\bin\Release\Master Control.exe
+c:\users\alexander\documents\visual studio 2012\Projects\Master Control\Master Control\bin\Release\Master Control.pdb
+c:\users\alexander\documents\visual studio 2012\Projects\Master Control\Master Control\obj\Release\MainWindow.baml
+c:\users\alexander\documents\visual studio 2012\Projects\Master Control\Master Control\obj\Release\MainWindow.g.cs
+c:\users\alexander\documents\visual studio 2012\Projects\Master Control\Master Control\obj\Release\App.g.cs
+c:\users\alexander\documents\visual studio 2012\Projects\Master Control\Master Control\obj\Release\Master Control_MarkupCompile.cache
+c:\users\alexander\documents\visual studio 2012\Projects\Master Control\Master Control\obj\Release\Master Control.g.resources
+c:\users\alexander\documents\visual studio 2012\Projects\Master Control\Master Control\obj\Release\Master_Control.Properties.Resources.resources
+c:\users\alexander\documents\visual studio 2012\Projects\Master Control\Master Control\obj\Release\Master Control.csproj.GenerateResource.Cache
+c:\users\alexander\documents\visual studio 2012\Projects\Master Control\Master Control\obj\Release\Master Control.exe
+c:\users\alexander\documents\visual studio 2012\Projects\Master Control\Master Control\obj\Release\Master Control.pdb
+C:\Users\Alexander\documents\visual studio 2012\Projects\Master Control\Master Control\bin\Release\SlimDX.dll
+C:\Users\Alexander\documents\visual studio 2012\Projects\Master Control\Master Control\bin\Release\SlimDX.pdb
+C:\Users\Alexander\documents\visual studio 2012\Projects\Master Control\Master Control\bin\Release\SlimDX.xml
